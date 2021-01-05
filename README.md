@@ -1,18 +1,14 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
- 
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px">
-
-My name is William Pourmajidi and I have more than 18 years of expereince in various IT domains. I live in Toronto, Canada.
-
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## &#x270d; About Me!
 
 I have more than 18 years of experience in designing, architecting, and implementing complex information systems. I have worked in many roles including programmer, software designer, software project manager, DBA, network engineer. I have synergized all my learnings in my perspective as a Cloud architect.
 
 I have so much passion for learning. I also believe that imagination is the key to success. As Einstein said, "knowledge takes you from A to B, but imagination takes you everywhere". In addition to my career activities, I have devoted a big portion of my time to exploring computer science and its universe of discourse. In recent years, Cloud computing, artificial intelligence, and machine learning techniques have caught my attention. Particularly, for my Ph.D., I am focusing on the interplay among software architecture, Cloud computing, and Cloud monitoring.
+
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
