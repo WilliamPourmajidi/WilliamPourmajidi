@@ -1,5 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-## &#x270d; About Me! <img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px">
+## <img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px"> About Me! 
 
 I have more than 18 years of experience in designing, architecting, and implementing complex information systems. I have worked in many roles including programmer, software designer, software project manager, DBA, network engineer. I have synergized all my learnings in my perspective as a Cloud architect.
 
