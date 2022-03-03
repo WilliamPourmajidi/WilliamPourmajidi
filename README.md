@@ -1,4 +1,7 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${williampourmajidi}.${williampourmajidi}&left_color=green&right_color=red)
+[![Repos Badge](https://badges.pufler.dev/repos/WilliamPourmajidi)](https://badges.pufler.dev)
+
 ## <img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px"> About Me! 
 
 I have more than 20 years of experience in designing, architecting, and implementing complex information systems. I have worked in many roles including programmer, software designer, software project manager, DBA, network engineer. I have synergized all my learnings in my perspective as a Cloud architect.
