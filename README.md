@@ -4,7 +4,9 @@
 
 ## <img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px"> About Me! 
 
-I have more than 20 years of experience in designing, architecting, and implementing complex information systems. I have worked in many roles including programmer, software designer, software project manager, DBA, network engineer. I have synergized all my learnings in my perspective as a Cloud architect.
+I have more than 20 years of experience in designing, architecting, and implementing complex information systems. I have worked in many roles including programmer, software designer, software project manager, DBA, network engineer, Cloud engineer, ... .
+
+Now after two decades, I have synergized all my learnings in my perspective as a Cloud architect.
 
 I have so much passion for learning. I believe that imagination is the key to success. As Einstein said, "knowledge takes you from A to B, but imagination takes you everywhere". In addition to my career activities, I have devoted a big portion of my time to exploring computer science and its universe of discourse. In recent years, Cloud computing, artificial intelligence, and machine learning techniques have caught my attention. Particularly, for my PhD, I am focusing on the interplay among software architecture, Cloud computing, and Cloud monitoring.
 
