@@ -1,6 +1,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${williampourmajidi}.${williampourmajidi}&left_color=green&right_color=red)
-[![Repos Badge](https://badges.pufler.dev/repos/WilliamPourmajidi)](https://badges.pufler.dev)
+
 
 ## <img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px"> About Me! 
 
