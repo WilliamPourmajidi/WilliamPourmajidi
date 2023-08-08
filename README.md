@@ -1,8 +1,8 @@
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${williampourmajidi}.${williampourmajidi}&left_color=green&right_color=red)
+## ![visitors](https://visitor-badge.glitch.me/badge?page_id=${williampourmajidi}.${williampourmajidi}&left_color=green&right_color=red)
 
 
-## <img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px"> About Me! 
+<img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px"> About Me! 
 
 I have more than 20 years of experience in designing, architecting, and implementing complex information systems. I have worked in many roles, including programmer, software designer, software project manager, DBA, network engineer, Cloud engineer,... .
 
