@@ -6,7 +6,7 @@ I have more than 20 years of experience in designing, architecting, and implemen
 
 Now after two decades, I have synergized all my learnings in my perspective as a Cloud architect.
 
-I have so much passion for learning. Imagination is the key to success. As Einstein said, "Knowledge takes you from A to B, but imagination takes you everywhere". In addition to my career activities, I have devoted a big portion of my time to exploring computer science and its universe of discourse. In recent years, Cloud computing, artificial intelligence, and machine learning techniques have caught my attention. Particularly, for my PhD, I am focusing on the interplay among software architecture, Cloud computing, and Cloud monitoring.
+I have so much passion for learning. Imagination is the key to success. As Einstein said, "Knowledge takes you from A to B, but imagination takes you everywhere". In addition to my career activities, I have devoted a big portion of my time to exploring computer science and its universe of discourse. In recent years, Cloud computing, artificial intelligence, and machine learning techniques have caught my attention. Particularly, for my PhD, I am focusing on the interplay among software architecture, Cloud computing, and Cloud governance.
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
