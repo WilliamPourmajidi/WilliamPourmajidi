@@ -2,11 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px"> About Me! 
 
-I have more than 20 years of experience in designing, architecting, and implementing complex information systems. I have worked in many roles, including programmer, software designer, software project manager, DBA, network engineer, Cloud engineer,... .
+With over two decades in the tech industry, I have held diverse roles, from network engineer and programmer to enterprise architect and C-suite executive (CTO, CVO). My career has focused on innovation, with a specialization in computing, cloud, software architecture, governance, and observability.
 
-Now after two decades, I have synergized all my learnings in my perspective as a Cloud architect.
-
-I have so much passion for learning. Imagination is the key to success. As Einstein said, "Knowledge takes you from A to B, but imagination takes you everywhere". In addition to my career activities, I have devoted a big portion of my time to exploring computer science and its universe of discourse. In recent years, Cloud computing, artificial intelligence, and machine learning techniques have caught my attention. Particularly, for my PhD, I am focusing on the interplay among software architecture, Cloud computing, and Cloud governance.
+In my academic journey, I have completed a Ph.D. in Computer Science, focusing on Cloud Computing, Cloud Governance, and Cloud-native applications. Building on my work on governance of cloud-native applications, my current research examines how large-scale data analytics and AI systems are architected and deployed today as cloud-native solutions. By studying real-world cloud-native pipelines, storage strategies, and execution models, this work establishes a systems-level foundation for addressing observability, reproducibility, and governance in modern AI-driven platforms.
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
