@@ -1,4 +1,4 @@
-![1777128423758](image/README/1777128423758.png)![1777128437010](image/README/1777128437010.png)# William Pourmajidi
+# William Pourmajidi
 
 <img src="https://raw.githubusercontent.com/WilliamPourmajidi/WilliamPourmajidi/master/wave.gif" width="30px" alt="Wave"> Welcome to my GitHub profile.
 
