@@ -337,14 +337,27 @@ h1 {
   padding: 18px;
 }
 
-.highlight-item > div {
+.highlight-copy {
   display: grid;
   gap: 4px;
 }
 
-.highlight-item strong,
-.highlight-item span {
-  display: block;
+.highlight-copy h3,
+.highlight-copy p {
+  margin: 0;
+}
+
+.highlight-copy h3 {
+  color: var(--ink);
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1rem;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+.highlight-copy p {
+  color: var(--ink-muted);
+  line-height: 1.55;
 }
 
 .badge i, .highlight-item i, .contact-card i, .research-card i, .project-icon, .skill-cat-header i, .teaching-card i {
