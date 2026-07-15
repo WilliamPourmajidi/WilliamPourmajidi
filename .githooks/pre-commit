@@ -1,0 +1,8 @@
+#!/bin/sh
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "scripts/update-version.ps1" "index.html" >/dev/null
+status=$?
+if [ $status -ne 0 ]; then
+  echo "Failed to update site version" >&2
+  exit $status
+fi
+git add index.html

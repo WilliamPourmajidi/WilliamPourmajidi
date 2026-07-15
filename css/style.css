@@ -554,6 +554,10 @@ textarea { resize: vertical; }
 }
 
 .footer-inner p { margin: 6px 0 0; }
+.site-version {
+  color: rgba(183, 198, 212, 0.78);
+  font-size: 0.82rem;
+}
 .footer-social { display: flex; gap: 10px; }
 .footer-social a, #back-to-top {
   display: grid;
