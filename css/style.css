@@ -337,6 +337,16 @@ h1 {
   padding: 18px;
 }
 
+.highlight-item > div {
+  display: grid;
+  gap: 4px;
+}
+
+.highlight-item strong,
+.highlight-item span {
+  display: block;
+}
+
 .badge i, .highlight-item i, .contact-card i, .research-card i, .project-icon, .skill-cat-header i, .teaching-card i {
   display: grid;
   width: 46px;
