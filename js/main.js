@@ -143,18 +143,6 @@ resizeCanvas();
 drawNetwork();
 window.addEventListener("resize", resizeCanvas);
 
-document.querySelector("#contact-form")?.addEventListener("submit", (event) => {
-  event.preventDefault();
-  const form = new FormData(event.currentTarget);
-  const name = form.get("name") || "";
-  const email = form.get("email") || "";
-  const message = form.get("message") || "";
-  const subject = encodeURIComponent("Portfolio inquiry");
-  const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`);
-
-  window.location.href = `mailto:?subject=${subject}&body=${body}`;
-});
-
 const backToTop = document.querySelector("#back-to-top");
 
 window.addEventListener("scroll", () => {

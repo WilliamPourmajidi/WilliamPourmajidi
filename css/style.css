@@ -308,7 +308,7 @@ h1 {
   object-position: 52% 24%;
 }
 
-.about-badges, .about-highlights, .skills-grid, .research-grid, .projects-grid, .contact-grid, .teaching-grid {
+.about-badges, .about-highlights, .skills-grid, .research-grid, .projects-grid, .contact-links, .teaching-grid {
   display: grid;
   gap: 18px;
 }
@@ -321,7 +321,11 @@ h1 {
   grid-template-columns: repeat(4, minmax(0, 1fr));
   margin: 34px auto 0;
 }
-.contact-grid { grid-template-columns: 0.85fr 1.15fr; align-items: start; }
+.contact-links {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  max-width: 780px;
+  margin: 0 auto;
+}
 
 .glass-card, .research-card, .project-card, .teaching-card {
   border: 1px solid var(--line-dark);
@@ -508,6 +512,25 @@ h1 {
 .timeline-content { padding: 24px; }
 .timeline-date { margin-bottom: 8px; color: var(--accent-3); }
 
+.teaching-statement {
+  margin: 34px auto 0;
+  padding: 28px;
+}
+
+.teaching-statement h3 {
+  margin: 6px 0 12px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+
+.teaching-statement p {
+  color: var(--ink-muted);
+}
+
+.teaching-statement p:last-child {
+  margin-bottom: 0;
+}
+
 .project-card {
   display: grid;
   grid-template-columns: 54px 1fr;
@@ -516,29 +539,7 @@ h1 {
 
 .project-tech { margin-top: 16px; }
 
-.contact-info { display: grid; gap: 14px; }
 .contact-card a { overflow-wrap: anywhere; }
-.contact-interests h4 { margin-bottom: 12px; color: var(--ink); }
-
-.contact-form {
-  display: grid;
-  gap: 16px;
-  padding: 24px;
-}
-
-.form-group { display: grid; gap: 7px; }
-label { color: var(--ink); font-weight: 800; }
-input, textarea {
-  width: 100%;
-  border: 1px solid var(--line-dark);
-  border-radius: 7px;
-  padding: 12px 13px;
-  color: var(--ink);
-  background: #f7fafb;
-  font: inherit;
-}
-textarea { resize: vertical; }
-.form-note { margin: 0; color: var(--ink-muted); font-size: 0.88rem; }
 
 #footer {
   padding: 34px 0;
@@ -610,7 +611,7 @@ textarea { resize: vertical; }
     background: rgba(7, 17, 28, 0.98);
   }
   .nav-links.open { display: flex; }
-  .about-grid, .research-feature, .contact-grid { grid-template-columns: 1fr; }
+  .about-grid, .research-feature { grid-template-columns: 1fr; }
   .skills-grid, .research-grid, .projects-grid, .teaching-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .keyword-panel { grid-template-columns: 1fr; }
   .hero-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -620,7 +621,7 @@ textarea { resize: vertical; }
 @media (max-width: 640px) {
   .hero { min-height: auto; padding-top: 116px; }
   .hero-buttons, .btn { width: 100%; }
-  .hero-stats, .skills-grid, .research-grid, .projects-grid, .research-metrics, .teaching-grid { grid-template-columns: 1fr; }
+  .hero-stats, .skills-grid, .research-grid, .projects-grid, .research-metrics, .teaching-grid, .contact-links { grid-template-columns: 1fr; }
   .project-card { grid-template-columns: 1fr; }
   .section { padding: 72px 0; }
   .footer-inner { flex-direction: column; text-align: center; }
